@@ -16,9 +16,10 @@ Recommendation
 •	Focus on high-density areas for new restaurant openings and targeted marketing campaigns.
 Conclusion
 •	High-density areas offer significant opportunities for restaurant expansion and customer acquisition.
+
+
 Most Popular Food Types Served by Swiggy Restaurants in Each City
 
- 
 
 Findings
 •	City Preferences: Different cities have distinct preferences, with Indian cuisine being popular in Mumbai, and fast food in Bangalore.
@@ -32,6 +33,7 @@ Recommendation
 •	Tailor restaurant menus to align with the food preferences of each city.
 Conclusion
 •	Understanding city-specific preferences and customizing menus accordingly can significantly improve customer satisfaction and retention.
+
 Top Rated Swiggy Restaurants (In Percentage)
 
  
